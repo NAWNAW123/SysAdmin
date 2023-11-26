@@ -171,3 +171,6 @@ touch server.js
 touch README > md
 touch README.md
 ls --color=auto
+rm README
+ls --color=auto
+echo Yay!
