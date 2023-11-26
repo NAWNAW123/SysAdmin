@@ -174,3 +174,4 @@ ls --color=auto
 rm README
 ls --color=auto
 echo Yay!
+echo I finished the boilerplate!
