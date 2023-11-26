@@ -168,3 +168,5 @@ touch package.json
 touch server.json
 rm server.json
 touch server.js
+touch README > md
+touch README.md
